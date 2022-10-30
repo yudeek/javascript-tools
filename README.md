@@ -1,3 +1,5 @@
+- [ ] [n:point](https://www.npoint.io) JSON storage bins that won't break your app
+- [ ] [Satori](https://github.com/vercel/satori) Satori supports the JSX syntax, which makes it very straightforward to use
 - [ ] [NPKILL](https://github.com/voidcosmos/npkill) Easily find and remove old and heavy node_modules folders
 - [ ] [route-list](https://github.com/VladimirMikulic/route-list)  Beautifully shows Express/Koa/Hapi/Fastify routes in CLI.
 - [ ] [DgrmJS](https://github.com/AlexeyBoiko/DgrmJS) DgrmJS is a JavaScript library for creating SVG flow diagram editors.
