@@ -8,7 +8,7 @@
 - [x] [NPKILL](https://github.com/voidcosmos/npkill) Easily find and remove old and heavy node_modules folders
 - [x] [route-list](https://github.com/VladimirMikulic/route-list)  Beautifully shows Express/Koa/Hapi/Fastify routes in CLI.
 - [x] [DgrmJS](https://github.com/AlexeyBoiko/DgrmJS) DgrmJS is a JavaScript library for creating SVG flow diagram editors.
-- [x] [El](https://github.com/frameable/el) Minimal JavaScript application framework inspired by React, Vue, and lit-element [код](https://github.com/frameable/el)
+- [x] [El](https://github.com/frameable/el) Minimal JavaScript application framework inspired by React, Vue, and lit-element [код](https://github.com/yudeek/javascript-tools/tree/el)
 - [x] [SVGuitar](https://github.com/omnibrain/svguitar) JavaScript (TypeScript) library to create beautiful SVG guitar chord charts directly in the browser.
 - [x] [reveal.js](https://github.com/hakimel/reveal.js) reveal.js is an open source HTML presentation framework []()
 - [x] [Peaks.js](https://github.com/bbc/peaks.js) A client-side JavaScript component to display and interact with audio waveforms in the browser
