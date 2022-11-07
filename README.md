@@ -1,8 +1,8 @@
-- [ ] [Markdoc](https://markdoc.dev) Markdown-based framework 
-- [ ] [pinceau](https://github.com/Tahul/pinceau) A CSS-in-TS framework built to feel like a native Vue feature.
-- [ ] [<relative-time> element](https://github.com/github/relative-time-element) Formats a timestamp as a localized string or as relative text that auto-updates in the user's browser. 
-- [ ] [Joi](https://joi.dev/api/?v=17.7.0#introduction) joi lets you describe your data using a simple, intuitive, and readable language.
-- [ ] [Vuestic UI](https://github.com/epicmaxco/vuestic-ui) A library of sixty customizable components.
+- [x] [Markdoc](https://markdoc.dev) Markdown-based framework
+- [x] [pinceau](https://github.com/Tahul/pinceau) A CSS-in-TS framework built to feel like a native Vue feature.
+- [x] [<relative-time> element](https://github.com/github/relative-time-element) Formats a timestamp as a localized string or as relative text that auto-updates in the user's browser.
+- [x] [Joi](https://joi.dev/api/?v=17.7.0#introduction) joi lets you describe your data using a simple, intuitive, and readable language.
+- [x] [Vuestic UI](https://github.com/epicmaxco/vuestic-ui) A library of sixty customizable components.
 - [x] [n:point](https://www.npoint.io) JSON storage bins that won't break your app
 - [x] [Satori](https://github.com/vercel/satori) Satori supports the JSX syntax, which makes it very straightforward to use
 - [x] [NPKILL](https://github.com/voidcosmos/npkill) Easily find and remove old and heavy node_modules folders
