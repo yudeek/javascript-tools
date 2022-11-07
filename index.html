@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width,initial-scale=1.0" />
+    <title></title>
+    <style>
+      .hidden {
+        display: none;
+      }
+
+      .vissible {
+        color: red;
+      }
+    </style>
+  </head>
+  <body>
+    <div>El Framework</div>
+    <my-counter class="counter"></my-counter>
+    <my-items></my-items>
+  </body>
+</html>
+
+<script type="module">
+  import { El } from './el.js';
+
+  class MyCounter extends El {
+    created() {
+      this.state = this.$observable({
+        items: [1,2,3,4,5],
+        count: 0,
+        age: 20,
+        prev: 0,
+        obj: {
+          a: {
+            b: {
+              c: 10
+            }
+          }
+        }
+      });
+    }
+    mounted(){
+      this.$watch(this.state.count, () => {
+        console.log('prev ' + this.state.prev);
+        console.log('cur ' + this.state.count);
+        this.state.prev = this.state.count;
+      })
+
+      this.$watch(this.state.obj.a.b.c, () => {
+        console.log('obj ' + this.state.obj.a.b.c);
+      })
+    }
+    unmounted(){
+    }
+    increment() {
+      this.state.obj.a.b.c = 20;
+      this.state.count += 1;
+    }
+    calc(){
+      if(this.state.age >= 20) return true;
+      else return false;
+    }
+
+    render(html) {
+      return html`
+        <span>Count: ${this.state.count}</span>
+        <span class="${(this.state.count > 10) ? 'hidden' : 'vissible' }">+++</span>
+        <span class="${this.calc() && 'hidden'}">???</span>
+        <button onclick=${this.increment}>Increment</button>
+      `
+    }
+  }
+  customElements.define('my-counter', MyCounter);
+
+  class TodoItems extends El {
+  render(html) {
+    return html`
+      <div class="todo-items">
+        ${[{id:1}, {id:2}, {id:3}].map, item => html`
+          <span item=${item} key=${item.id}>${item.id}</span>
+        `}
+      </div>
+    `
+  }
+}
+customElements.define('my-items', TodoItems);
+
+</script>
