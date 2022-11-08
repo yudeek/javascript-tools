@@ -1,14 +1,14 @@
-- [ ] [Embla Carousel](https://www.embla-carousel.com) A lightweight carousel library with fluid motion and great swipe precision
-- [ ] [colorgrad-js](https://github.com/mazznoer/colorgrad-js) High-performance Javascript color gradient library powered by Rust + WebAssembly
-- [ ] [safe-json](https://github.com/ehmicky/safe-json-value) JSON serialization should never fail
-- [ ] [Vue Grid Layout](https://jbaysolutions.github.io/vue-grid-layout/) A grid layout system for Vue.js
-- [ ] [Size Limit](https://github.com/ai/size-limit) Size Limit is a performance budget tool for JavaScript
-- [ ] [Million](https://millionjs.org) Virtual DOM into the future
-- [ ] [grex-js](https://pemistahl.github.io/grex-js/)
-- [ ] [NodeGui](https://docs.nodegui.org) Build performant, native, cross platform desktop apps with JavaScript and CSS
-- [ ] [Partytown](https://partytown.builder.io) Partytown is a lazy-loaded library to help relocate resource intensive scripts into a web worker
-- [ ] [Hyper Fetch](https://hyperfetch.bettertyped.com) Ultimate framework for data exchange, asynchronous state management, complex persistence and queueing.
-- [ ] [lusift](https://lusift.vercel.app) Javascript library to create product walkthroughs for your web app
+- [x] [Embla Carousel](https://www.embla-carousel.com) A lightweight carousel library with fluid motion and great swipe precision
+- [x] [colorgrad-js](https://github.com/mazznoer/colorgrad-js) High-performance Javascript color gradient library powered by Rust + WebAssembly
+- [x] [safe-json](https://github.com/ehmicky/safe-json-value) JSON serialization should never fail
+- [x] [Vue Grid Layout](https://jbaysolutions.github.io/vue-grid-layout/) A grid layout system for Vue.js
+- [x] [Size Limit](https://github.com/ai/size-limit) Size Limit is a performance budget tool for JavaScript
+- [x] [Million](https://millionjs.org) Virtual DOM into the future
+- [x] [grex-js](https://pemistahl.github.io/grex-js/)
+- [x] [NodeGui](https://docs.nodegui.org) Build performant, native, cross platform desktop apps with JavaScript and CSS []()
+- [x] [Partytown](https://partytown.builder.io) Partytown is a lazy-loaded library to help relocate resource intensive scripts into a web worker
+- [x] [Hyper Fetch](https://hyperfetch.bettertyped.com) Ultimate framework for data exchange, asynchronous state management, complex persistence and queueing.
+- [x] [lusift](https://lusift.vercel.app) Javascript library to create product walkthroughs for your web app
 - [x] [Markdoc](https://markdoc.dev) Markdown-based framework
 - [x] [pinceau](https://github.com/Tahul/pinceau) A CSS-in-TS framework built to feel like a native Vue feature.
 - [x] [<relative-time> element](https://github.com/github/relative-time-element) Formats a timestamp as a localized string or as relative text that auto-updates in the user's browser.
