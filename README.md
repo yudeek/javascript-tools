@@ -1,3 +1,14 @@
+- [ ] [Embla Carousel](https://www.embla-carousel.com) A lightweight carousel library with fluid motion and great swipe precision
+- [ ] [colorgrad-js](https://github.com/mazznoer/colorgrad-js) High-performance Javascript color gradient library powered by Rust + WebAssembly
+- [ ] [safe-json](https://github.com/ehmicky/safe-json-value) JSON serialization should never fail
+- [ ] [Vue Grid Layout](https://jbaysolutions.github.io/vue-grid-layout/) A grid layout system for Vue.js
+- [ ] [Size Limit](https://github.com/ai/size-limit) Size Limit is a performance budget tool for JavaScript
+- [ ] [Million](https://millionjs.org) Virtual DOM into the future
+- [ ] [grex-js](https://pemistahl.github.io/grex-js/)
+- [ ] [NodeGui](https://docs.nodegui.org) Build performant, native, cross platform desktop apps with JavaScript and CSS
+- [ ] [Partytown](https://partytown.builder.io) Partytown is a lazy-loaded library to help relocate resource intensive scripts into a web worker
+- [ ] [Hyper Fetch](https://hyperfetch.bettertyped.com) Ultimate framework for data exchange, asynchronous state management, complex persistence and queueing.
+- [ ] [lusift](https://lusift.vercel.app) Javascript library to create product walkthroughs for your web app
 - [x] [Markdoc](https://markdoc.dev) Markdown-based framework
 - [x] [pinceau](https://github.com/Tahul/pinceau) A CSS-in-TS framework built to feel like a native Vue feature.
 - [x] [<relative-time> element](https://github.com/github/relative-time-element) Formats a timestamp as a localized string or as relative text that auto-updates in the user's browser.
@@ -10,17 +21,17 @@
 - [x] [DgrmJS](https://github.com/AlexeyBoiko/DgrmJS) DgrmJS is a JavaScript library for creating SVG flow diagram editors.
 - [x] [El](https://github.com/frameable/el) Minimal JavaScript application framework inspired by React, Vue, and lit-element [код](https://github.com/yudeek/javascript-tools/tree/el)
 - [x] [SVGuitar](https://github.com/omnibrain/svguitar) JavaScript (TypeScript) library to create beautiful SVG guitar chord charts directly in the browser.
-- [x] [reveal.js](https://github.com/hakimel/reveal.js) reveal.js is an open source HTML presentation framework []()
+- [x] [reveal.js](https://github.com/hakimel/reveal.js) reveal.js is an open source HTML presentation framework
 - [x] [Peaks.js](https://github.com/bbc/peaks.js) A client-side JavaScript component to display and interact with audio waveforms in the browser
 - [x] [Japa](https://japa.dev/docs) A simple yet powerful testing framework for Node.js
 - [x] [DOCX 7.5](https://docx.js.org/#/) Easily generate .docx files with JS/TS. Works for Node and on the Browser
 - [x] [TinyBase](https://tinybase.org) The reactive data store for local‑first apps.
 - [x] [Vue Command Palette](https://vue-command-palette.vercel.app) A Command Palette for Vue
 - [x] [billboard.js](https://github.com/naver/billboard.js) billboard.js is a re-usable, easy interface JavaScript chart library, based on D3.js.
-- [x] [Glide](https://glidejs.com) A dependency-free JavaScript ES6 slider and carousel. It’s lightweight, flexible and fast. []()
+- [x] [Glide](https://glidejs.com) A dependency-free JavaScript ES6 slider and carousel. It’s lightweight, flexible and fast.
 - [x] [Preview.js](https://previewjs.com) Preview UI components in your IDE instantly
-- [x] [SurveyJS](https://surveyjs.io) Automate forms workflow and retain full ownership of respondent data. []()
+- [x] [SurveyJS](https://surveyjs.io) Automate forms workflow and retain full ownership of respondent data.
 - [x] [Rocket](https://rocket.modern-web.dev/tools/check-html-links/overview/) A fast checker for broken links/references in HTML files.
 - [x] [Print Ready](https://github.com/humanwhocodes/print-ready) A JavaScript-powered CLI for converting HTML into PDFs.
 - [x] [Knip](https://github.com/webpro/knip) Knip finds unused files, dependencies and exports in your JavaScript and TypeScript projects.
-- [x] [SortableJS](http://sortablejs.github.io/Sortable/) JavaScript library for reorderable drag-and-drop lists []()
+- [x] [SortableJS](http://sortablejs.github.io/Sortable/) JavaScript library for reorderable drag-and-drop lists
